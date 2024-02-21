@@ -8,7 +8,7 @@ I am Ankit, a JAVA Back-End enthusiast with a passion for learn new java and oth
 
 ## Certificates
 
-### [Oracle Cloud Data Management 2023 Certified Foundations Associate](Oracle Cloud Data Management 2023 Certified Foundations Associate.pdf)
+### [Oracle Cloud Data Management 2023 Certified Foundations Associate ](Oracle Cloud Data Management 2023 Certified Foundations Associate.pdf)
 - Description:
 The Oracle Cloud Data Management 2023 Certified Foundations Associate certification is designed to validate an individual's foundational knowledge and skills in Oracle Cloud Data Management services and technologies. This certification is intended for professionals who are new to Oracle Cloud and want to demonstrate their expertise in managing data on the Oracle Cloud platform.
 
@@ -22,7 +22,7 @@ Data Security and Compliance: Understanding security features and compliance req
 - Issuer: ORACLE 
 - Date Earned:February 20,2024.
 
-### [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](Oracle Cloud Infrastructure 2023 Certified Foundations Associate.pdf)
+### [Oracle Cloud Infrastructure 2023 Certified Foundations Associate ](Oracle Cloud Infrastructure 2023 Certified Foundations Associate.pdf)
 - Description: The Oracle Cloud Infrastructure (OCI) 2023 Certified Foundations Associate certification validates an individual's foundational knowledge and skills in Oracle Cloud Infrastructure services and technologies. This certification is ideal for professionals who are new to Oracle Cloud and want to establish their expertise in using Oracle Cloud Infrastructure.
 
 Key components and topics covered in the certification may include:
@@ -35,7 +35,7 @@ OCI Support and Documentation: Accessing support resources, documentation, and t
 - Issuer: ORACLE 
 - Date Earned:February 10,2024.
 
-### [java backend bootcamp](java backend bootcamp.pdf)
+### [java backend bootcamp ](java backend bootcamp.pdf)
 - Description: The Java Backend Bootcamp Certificate offered by Java Brains is designed to provide participants with comprehensive training in Java backend development. This certificate program covers a wide range of topics and skills relevant to building robust and scalable backend applications using Java technologies.
 
 Key features of the Java Backend Bootcamp Certificate by Java Brains may include:  
