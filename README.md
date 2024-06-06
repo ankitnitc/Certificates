@@ -7,6 +7,7 @@ Welcome to my certificate portfolio repository! Here you'll find a collection of
 I am Ankit, a JAVA Back-End enthusiast with a passion for learn new java and other back-end tech.
 
 ## Certificates
+### [Oracle Cloud Data Infrastructure AI Foundations Associate ](eCertificate.pdf)
 
 ### [Oracle Cloud Data Management 2023 Certified Foundations Associate ](OracleCloudDataManagement2023CertifiedFoundationsAssociate.pdf)
 - Description:
